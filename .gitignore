@@ -1,0 +1,5 @@
+# Publicar SOLO el solucionador y su documentación
+/*
+!/.gitignore
+!/README.md
+!/fix-github-credential.bat
